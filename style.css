@@ -1,6 +1,6 @@
 body{
 
-background-color: rgb(183, 176, 176);/*coloca uma cor de fundo*/
+background-color: rgba(179, 158, 23, 0.928);/*coloca uma cor de fundo*/
 
 }
 
@@ -54,4 +54,8 @@ height: 300px;
 border-radius: 10px;
 }
 
-<
+.sobre_imagem{
+width: 200px;
+height: 200px;
+border-radius: 10px;
+}
